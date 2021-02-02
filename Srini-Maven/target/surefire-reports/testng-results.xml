@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mySuite" duration-ms="36976" started-at="2021-02-01T02:44:52Z" finished-at="2021-02-01T02:45:29Z">
+    <groups>
+    </groups>
+    <test name="myTest" duration-ms="36976" started-at="2021-02-01T02:44:52Z" finished-at="2021-02-01T02:45:29Z">
+      <class name="myPack.Srini">
+        <test-method status="PASS" signature="addEmp()[pri:0, instance:myPack.Srini@48140564]" name="addEmp" duration-ms="30262" started-at="2021-02-01T08:14:52Z" finished-at="2021-02-01T08:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmp -->
+        <test-method status="PASS" signature="deleteEmp()[pri:0, instance:myPack.Srini@48140564]" name="deleteEmp" duration-ms="1" started-at="2021-02-01T08:15:22Z" finished-at="2021-02-01T08:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmp -->
+        <test-method status="PASS" signature="editEmp()[pri:0, instance:myPack.Srini@48140564]" name="editEmp" duration-ms="0" started-at="2021-02-01T08:15:22Z" finished-at="2021-02-01T08:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editEmp -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:myPack.Srini@48140564]" name="verifyLogin" duration-ms="6698" started-at="2021-02-01T08:15:22Z" finished-at="2021-02-01T08:15:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- myPack.Srini -->
+    </test> <!-- myTest -->
+  </suite> <!-- mySuite -->
+</testng-results>
